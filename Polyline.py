@@ -27,4 +27,6 @@ frame.set_mouseclick_handler(click)
 frame.set_draw_handler(draw)
 frame.add_button("Clear", clear)
 
+print("practice pull")
+
 frame.start()
