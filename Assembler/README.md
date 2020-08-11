@@ -26,6 +26,7 @@ int 0x80
 
 Will print onto console
 
+print("My two cents here")
 ```
 hello world
 END PROGRAM
